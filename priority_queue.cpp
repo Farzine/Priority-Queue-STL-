@@ -40,6 +40,8 @@ int main()
 
     cout<<pq1.top()<<endl;
 
-
+  // swap() , vector ar moto
+  // emplace(), pusher moto
 
 }
+
